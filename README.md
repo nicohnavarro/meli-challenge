@@ -9,6 +9,7 @@ Es necesario tener docker y docker-compose luego ejecutar
 
 ```bash
 git clone https://github.com/nicohnavarro/meli-challenge.git
+cd meli-challenge
 docker-compose up -d
 ```
 
