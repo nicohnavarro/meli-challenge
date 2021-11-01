@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:nicohnavarro/meli-back.git
+[submodule "client"]
+	path = client
+	url = git@github.com:nicohnavarro/meli-front.git
